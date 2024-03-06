@@ -1,0 +1,7 @@
+POST https://localhost:8080/api/wares
+Content-Type: application/json
+
+{
+    "name": "Shoes",
+    "price": 100,
+}
